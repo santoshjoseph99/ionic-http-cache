@@ -1,0 +1,16 @@
+{
+  "name": "localcache",
+  "version": "1.0.0",
+  "description": "Ionic http cache module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ionic",
+    "cache",
+    "http"
+  ],
+  "author": "Santosh Joseph",
+  "license": "MIT"
+}
